@@ -1,8 +1,6 @@
 📄 PDF Date Range Extractor
 
-This tool lets you upload a PDF, enter a date range, and extract only the pages containing dates within that range.
-
-🚀 Live Demo
+This Client tool lets you upload a PDF, enter a date range, and extract only the pages containing dates within that range.
 
 👉 [Launch the App](https://pdf-date-range-extractor.streamlit.app/)
 
