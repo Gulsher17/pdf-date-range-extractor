@@ -5,6 +5,7 @@ This tool lets you upload a PDF, enter a date range, and extract only the pages 
 🚀 Live Demo
 
 👉 [Launch the App](https://pdf-date-range-extractor.streamlit.app/)
+
 Features
 
 - Upload any PDF
